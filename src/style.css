@@ -17,7 +17,7 @@ button{
 .wrapper{
     color: #ffff;
     height: 100% !important;
-    background-image: url(/public/images/wrapper-background_01.jpg);
+    background-image: url(../public/images/wrapper-background_01.jpg);
 }
 .wrapper-container{
     padding-top: 1rem !important;
